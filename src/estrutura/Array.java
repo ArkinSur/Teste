@@ -10,5 +10,7 @@ package estrutura;
  * @author Filipe
  */
 public class Array {
+
     aaaaaa
+    bbbbbb
 }
